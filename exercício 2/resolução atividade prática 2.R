@@ -14,7 +14,7 @@ salarios = interaction(clientes, '= R$' , clientesval)
 
 ##Questão 4
 
-clientesvalatt = c(clientesval*0.30)
+clientesvalatt = c(clientesval*0.70)
 salariosatt = interaction(clientes, '= R$', clientesvalatt)
 
 
